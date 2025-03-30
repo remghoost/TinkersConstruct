@@ -1,3 +1,13 @@
+Custom fork with a few changes:
+- Overgrowth modifier is back on the menu, made from moss.
+- Lava is hot enough to melt anything in the smeltery
+- Protection modifier limit is higher
+- Bow power limit is higher
+- Writable modifier limit is higher
+
+---
+
+
 # [Tinkers' Construct](https://slimeknights.github.io/projects/#tinkers-construct)
 
 Modify all the things, then do it again!   
