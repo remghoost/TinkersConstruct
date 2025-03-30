@@ -6,5 +6,5 @@
     "fluid": "minecraft:lava"
   },
   "rate": 10,
-  "temperature": 1000
+  "temperature": 5000
 }

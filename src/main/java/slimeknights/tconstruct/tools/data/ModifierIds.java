@@ -32,6 +32,7 @@ public class ModifierIds {
   public static final ModifierId offhanded  = id("offhanded");
   public static final ModifierId soulbound = id("soulbound");
   public static final ModifierId smelting = id("smelting");
+
   // general abilities
   public static final ModifierId reach = id("reach");
   public static final ModifierId glowing = id("glowing");

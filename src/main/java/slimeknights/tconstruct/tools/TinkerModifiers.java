@@ -316,6 +316,8 @@ public final class TinkerModifiers extends TinkerModule {
   // durability reinforcements
   public static final ItemObject<Item> emeraldReinforcement = ITEMS.register("emerald_reinforcement", ITEM_PROPS);
   public static final ItemObject<Item> slimesteelReinforcement = ITEMS.register("slimesteel_reinforcement", ITEM_PROPS);
+  public static final ItemObject<Item> overgrowthReinforcement = ITEMS.register("overgrowth_reinforcement", ITEM_PROPS);
+
   // armor reinforcements
   public static final ItemObject<Item> ironReinforcement = ITEMS.register("iron_reinforcement", ITEM_PROPS);
   public static final ItemObject<Item> searedReinforcement = ITEMS.register("seared_reinforcement", ITEM_PROPS);
